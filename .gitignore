@@ -1,0 +1,13 @@
+.DS_Store
+
+# Dependency directories
+node_modules
+
+.vscode
+
+#webstorm
+.idea
+
+.env
+.env*
+!.env.example
